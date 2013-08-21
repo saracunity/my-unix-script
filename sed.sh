@@ -1,4 +1,4 @@
 #!/bin/bash
 # example 7
-# scripts to test sed commands
+# second script to check this scripts
 cat /home/saravanan/Desktop/today |  sed 's/this/that/g'
