@@ -10,3 +10,7 @@ read $value
 
 dbl
 echo "The new value is: $value"
+
+echo " testing the commit process inside the directory"
+
+
